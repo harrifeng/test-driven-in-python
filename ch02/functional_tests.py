@@ -11,3 +11,5 @@ brower.get('http://localhost:8000')
 assert 'To-Do' in brower.title
 
 # She is invited to enter a to-do item straight away
+
+browser.quit()
